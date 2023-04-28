@@ -4,13 +4,13 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm an experienced software developer 💻 from Tirane, Albania. I'm a passionate learner who's always willing to learn and
+I'm an experienced software developer 💻 from Tirana, Albania. I'm a passionate learner who's always willing to learn and
 work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 ### More about me:
 
-- 👨💻 Currently working, learning and growing my skill set in Fintech projects, Low/No Code CRM's.
+- 👨💻 Currently working, learning and growing my skill set in Fintech projects, Low/No Code CRM's and blockchains platforms.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
